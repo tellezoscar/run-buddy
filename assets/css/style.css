@@ -1,0 +1,10 @@
+body {
+    /* I'm a CSS coment! */ 
+    color: #39a6b2;font-family: Helvetica, Arial, sans-serif;
+  }
+  
+  /* apply style to <header> */
+  header {
+      padding: 20px 35px;
+      background-color: #39a6b2;
+  }
